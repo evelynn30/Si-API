@@ -35,7 +35,7 @@
 
 Several quick start options are available:
 
--   Clone the repo: `git clone https://github.com/evelynn30/siAPI.git`
+-   Clone the repo: `git clone https://github.com/evelynn30/Si-API.git`
 -   Run `cd` to the newly created `/namefolder` directory
 -   Run `composer install` command
 -   Run `cp .env.example .env` command
