@@ -6,7 +6,7 @@
 
 |                       Home Page                       |                       Login                        |
 | :---------------------------------------------------: | :------------------------------------------------: |
-| ![Home Page](public/assets/img/preview/home-page.png) | ![Login](public/assets/img/preview/login-page.png) |
+| ![Home Page](public/assets/img/preview/page-home.png) | ![Login](public/assets/img/preview/login-page.png) |
 
 |                       Rekap Data                        |                       Dashboard                       |
 | :-----------------------------------------------------: | :---------------------------------------------------: |
