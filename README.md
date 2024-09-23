@@ -4,9 +4,13 @@
 
 ## Preview
 
-|                       Dashboard                       |                     Login                     |                       Rekap Data                        |                       Home Page                       |
-| :---------------------------------------------------: | :-------------------------------------------: | :-----------------------------------------------------: | :---------------------------------------------------: |
-| ![Dashboard](public/assets/img/preview/dashboard.png) | ![Login](public/assets/img/preview/login.png) | ![Rekap Data](public/assets/img/preview/rekap-data.png) | ![Home Page](public/assets/img/preview/home-page.png) |
+|                       Home Page                       |                       Login                        |
+| :---------------------------------------------------: | :------------------------------------------------: |
+| ![Home Page](public/assets/img/preview/home-page.png) | ![Login](public/assets/img/preview/login-page.png) |
+
+|                       Rekap Data                        |                       Dashboard                       |
+| :-----------------------------------------------------: | :---------------------------------------------------: |
+| ![Rekap Data](public/assets/img/preview/rekap-data.png) | ![Dashboard](public/assets/img/preview/dashboard.png) |
 
 ## Framework and Template
 
@@ -37,11 +41,11 @@ Several quick start options are available:
 -   Run `cp .env.example .env` command
 -   Run `php artisan key:generate` command
 -   Run `php artisan serve` command
--   Done
+    Done
 
 -   //Optional
--   Run `npm install` command
--   Run `npm run dev` command
+    Run `npm install` command
+    Run `npm run dev` command
 
 -   //Feel free to ask about this project
 
