@@ -44,9 +44,9 @@
 
             <nav id="navmenu" class="navmenu">
                 <ul>
-                    <li><a href="https://diskominfo.sultengprov.go.id/" target="_blank"
+                    <li><a href="" target="_blank"
                             style="font-weight: bold;">Diskominfo Provinsi</a></li>
-                    <li><a href="https://sandikami.diskominfo.sultengprov.go.id/" target="_blank"
+                    <li><a href="" target="_blank"
                             style="font-weight: bold;">Sandi Kami</a></li>
                 </ul>
                 <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
