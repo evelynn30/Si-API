@@ -43,12 +43,12 @@ Several quick start options are available:
 -   Run `php artisan serve` command
     Done
 
-# Optional
+### Optional
 
 -   Run `npm install` command
 -   Run `npm run dev` command
 
-# Feel free to ask about this project
+### Feel free to ask about this project
 
 ## License
 
